@@ -1,5 +1,6 @@
 h1 {
     color: palegreen;
+    font-weight: normal;
 }
 
 p{
@@ -15,6 +16,7 @@ background-color: #4CAF50;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  font-weight: normal;
   margin: 4px 2px;
   cursor: pointer;
 }
